@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Cristiano Ronaldo",
+    "position": "ST",
+    "rating": 87,
+    "pace": 82,
+    "shooting": 91
+  },
+  {
+    "name": "Lionel Messi",
+    "position": "RW",
+    "rating": 89,
+    "pace": 80,
+    "shooting": 88
+  },
+  {
+    "name": "Erling Haaland",
+    "position": "ST",
+    "rating": 88,
+    "pace": 90,
+    "shooting": 89
+  }
+]
